@@ -1,0 +1,172 @@
+[
+  {
+    "id": 17200576,
+    "title": "Journey to Hogwarts",
+    "image": "https://covers.openlibrary.org/b/id/2520429-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.8939999938011169
+    },
+    "price": 15.99,
+    "stock": 12
+  },
+
+  {
+    "id": 14136028,
+    "title": "Harry Potter and the sorcerer's stone",
+    "image": "https://covers.openlibrary.org/b/id/8345853-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.8939999938011169
+    },
+    "price": 12.99,
+    "stock": 8
+  },
+
+  {
+    "id": 15954006,
+    "title": "Inside Hogwarts",
+    "subtitle": "Magical Paintbook",
+    "image": "https://covers.openlibrary.org/b/id/2520430-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.8939999938011169
+    },
+    "price": 18.5,
+    "stock": 0
+  },
+
+  {
+    "id": 15353712,
+    "title": "The Hunger Games by Suzanne Collins",
+    "image": "https://covers.openlibrary.org/b/id/7890713-M.jpg",
+    "authors": [
+      {
+        "id": 13102494,
+        "name": "Suzanne Collins"
+      }
+    ],
+    "rating": {
+      "average": 0.8659999966621399
+    },
+    "price": 14.99,
+    "stock": 15
+  },
+
+  {
+    "id": 14228174,
+    "title": "Harry Potter and The Prisoner of Azkaban",
+    "image": "https://covers.openlibrary.org/b/id/10580435-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.9160000085830688
+    },
+    "price": 13.99,
+    "stock": 3
+  },
+
+  {
+    "id": 23521888,
+    "title": "Harry Potter and the deathly hallows",
+    "image": "https://covers.openlibrary.org/b/id/10082428-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.9240000247955322
+    },
+    "price": 16.99,
+    "stock": 0
+  },
+
+  {
+    "id": 22144820,
+    "title": "Harry Potter and the Goblet of Fire Sticker Book",
+    "image": "https://covers.openlibrary.org/b/id/278729-M.jpg",
+    "authors": [
+      {
+        "id": 14160410,
+        "name": "Fiona Simpson"
+      }
+    ],
+    "rating": {
+      "average": 0.9120000004768372
+    },
+    "price": 10.99,
+    "stock": 7
+  },
+
+  {
+    "id": 16384516,
+    "title": "Harry Potter and the Goblet of Fire",
+    "image": "https://covers.openlibrary.org/b/id/12775900-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.9120000004768372
+    },
+    "price": 15.49,
+    "stock": 19
+  },
+
+  {
+    "id": 27926208,
+    "title": "Fourth Wing (Wing and Claw Collection)",
+    "authors": [
+      {
+        "id": 27926206,
+        "name": "Rebecca Yarros"
+      }
+    ],
+    "rating": {
+      "average": 0.9160000085830688
+    },
+    "price": 19.99,
+    "stock": 0
+  },
+
+  {
+    "id": 19343018,
+    "title": "Harry Potter and the Chamber of Secrets",
+    "subtitle": "Illustrated Edition",
+    "image": "https://covers.openlibrary.org/b/id/10716001-M.jpg",
+    "authors": [
+      {
+        "id": 14136020,
+        "name": "J. K. Rowling"
+      }
+    ],
+    "rating": {
+      "average": 0.8859999775886536
+    },
+    "price": 14.49,
+    "stock": 11
+  }
+]
