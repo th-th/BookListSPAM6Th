@@ -1,172 +1,152 @@
 [
   {
-    "id": 17200576,
-    "title": "Journey to Hogwarts",
-    "image": "https://covers.openlibrary.org/b/id/2520429-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.8939999938011169
-    },
-    "price": 15.99,
-    "stock": 12
+    "id": 1,
+    "title": "La casa de los espíritus",
+    "image": "https://covers.openlibrary.org/b/id/15117595-L.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.95 },
+    "price": 15990,
+    "stock": 12,
+    "resume": "Saga familiar que mezcla realismo mágico con la historia política de Chile."
   },
-
   {
-    "id": 14136028,
-    "title": "Harry Potter and the sorcerer's stone",
-    "image": "https://covers.openlibrary.org/b/id/8345853-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.8939999938011169
-    },
-    "price": 12.99,
-    "stock": 8
+    "id": 2,
+    "title": "De amor y de sombra",
+    "image": "https://covers.openlibrary.org/b/id/1048432-L.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.89 },
+    "price": 13990,
+    "stock": 8,
+    "resume": "Historia de amor en medio de una dictadura latinoamericana."
   },
-
   {
-    "id": 15954006,
-    "title": "Inside Hogwarts",
-    "subtitle": "Magical Paintbook",
-    "image": "https://covers.openlibrary.org/b/id/2520430-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.8939999938011169
-    },
-    "price": 18.5,
-    "stock": 0
+    "id": 3,
+    "title": "Eva Luna",
+    "image": "https://covers.openlibrary.org/b/id/14597782-L.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.91 },
+    "price": 14990,
+    "stock": 10,
+    "resume": "Relato de una mujer con talento para contar historias."
   },
-
   {
-    "id": 15353712,
-    "title": "The Hunger Games by Suzanne Collins",
-    "image": "https://covers.openlibrary.org/b/id/7890713-M.jpg",
-    "authors": [
-      {
-        "id": 13102494,
-        "name": "Suzanne Collins"
-      }
-    ],
-    "rating": {
-      "average": 0.8659999966621399
-    },
-    "price": 14.99,
-    "stock": 15
+    "id": 4,
+    "title": "Cuentos de Eva Luna",
+    "image": "https://archive.org/download/cuentosdeevaluna0000isab/page/cover_w500_h500.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.88 },
+    "price": 12990,
+    "stock": 7,
+    "resume": "Colección de relatos conectados con Eva Luna."
   },
-
   {
-    "id": 14228174,
-    "title": "Harry Potter and The Prisoner of Azkaban",
-    "image": "https://covers.openlibrary.org/b/id/10580435-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.9160000085830688
-    },
-    "price": 13.99,
-    "stock": 3
+    "id": 5,
+    "title": "El plan infinito",
+    "image": "https://archive.org/download/elplaninfinito0000isab/page/cover_w500_h500.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.85 },
+    "price": 13990,
+    "stock": 6,
+    "resume": "Historia de un hombre en busca de sentido."
   },
-
   {
-    "id": 23521888,
-    "title": "Harry Potter and the deathly hallows",
-    "image": "https://covers.openlibrary.org/b/id/10082428-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.9240000247955322
-    },
-    "price": 16.99,
-    "stock": 0
+    "id": 6,
+    "title": "Paula",
+    "image": "https://covers.openlibrary.org/b/id/9707550-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.97 },
+    "price": 15990,
+    "stock": 9,
+    "resume": "Memorias íntimas escritas para su hija."
   },
-
   {
-    "id": 22144820,
-    "title": "Harry Potter and the Goblet of Fire Sticker Book",
-    "image": "https://covers.openlibrary.org/b/id/278729-M.jpg",
-    "authors": [
-      {
-        "id": 14160410,
-        "name": "Fiona Simpson"
-      }
-    ],
-    "rating": {
-      "average": 0.9120000004768372
-    },
-    "price": 10.99,
-    "stock": 7
+    "id": 7,
+    "title": "Hija de la fortuna",
+    "image": "https://covers.openlibrary.org/b/id/9552863-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.92 },
+    "price": 14990,
+    "stock": 11,
+    "resume": "Aventura durante la fiebre del oro."
   },
-
   {
-    "id": 16384516,
-    "title": "Harry Potter and the Goblet of Fire",
-    "image": "https://covers.openlibrary.org/b/id/12775900-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.9120000004768372
-    },
-    "price": 15.49,
-    "stock": 19
+    "id": 8,
+    "title": "Retrato en sepia",
+    "image": "https://covers.openlibrary.org/b/id/52666-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.9 },
+    "price": 14990,
+    "stock": 10,
+    "resume": "Historia sobre identidad y memoria."
   },
-
   {
-    "id": 27926208,
-    "title": "Fourth Wing (Wing and Claw Collection)",
-    "authors": [
-      {
-        "id": 27926206,
-        "name": "Rebecca Yarros"
-      }
-    ],
-    "rating": {
-      "average": 0.9160000085830688
-    },
-    "price": 19.99,
-    "stock": 0
+    "id": 9,
+    "title": "La ciudad de las bestias",
+    "image": "https://covers.openlibrary.org/b/id/7977995-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.87 },
+    "price": 12990,
+    "stock": 14,
+    "resume": "Aventura juvenil en la Amazonía."
   },
-
   {
-    "id": 19343018,
-    "title": "Harry Potter and the Chamber of Secrets",
-    "subtitle": "Illustrated Edition",
-    "image": "https://covers.openlibrary.org/b/id/10716001-M.jpg",
-    "authors": [
-      {
-        "id": 14136020,
-        "name": "J. K. Rowling"
-      }
-    ],
-    "rating": {
-      "average": 0.8859999775886536
-    },
-    "price": 14.49,
-    "stock": 11
+    "id": 10,
+    "title": "El reino del dragón de oro",
+    "image": "https://covers.openlibrary.org/b/id/12638925-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.86 },
+    "price": 12990,
+    "stock": 13,
+    "resume": "Viaje al Himalaya en una aventura juvenil."
+  },
+  {
+    "id": 11,
+    "title": "El bosque de los pigmeos",
+    "image": "https://covers.openlibrary.org/b/id/7365989-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.85 },
+    "price": 12990,
+    "stock": 12,
+    "resume": "Cierre de la trilogía juvenil en África."
+  },
+  {
+    "id": 12,
+    "title": "Inés del alma mía",
+    "image": "https://covers.openlibrary.org/b/id/10721121-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.93 },
+    "price": 15990,
+    "stock": 9,
+    "resume": "Novela histórica sobre la conquista de Chile."
+  },
+  {
+    "id": 13,
+    "title": "La suma de los días",
+    "image": "https://covers.openlibrary.org/b/id/10721238-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.9 },
+    "price": 14990,
+    "stock": 8,
+    "resume": "Continuación autobiográfica de Paula."
+  },
+  {
+    "id": 14,
+    "title": "El cuaderno de Maya",
+    "image": "https://covers.openlibrary.org/b/id/7395957-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.89 },
+    "price": 13990,
+    "stock": 10,
+    "resume": "Historia de redención en Chiloé."
+  },
+  {
+    "id": 15,
+    "title": "Largo pétalo de mar",
+    "image": "https://covers.openlibrary.org/b/id/13258214-M.jpg",
+    "authors": [{ "id": 1, "name": "Isabel Allende" }],
+    "rating": { "average": 0.94 },
+    "price": 15990,
+    "stock": 11,
+    "resume": "Relato de exiliados españoles en Chile."
   }
 ]

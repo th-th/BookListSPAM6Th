@@ -28,8 +28,12 @@ const handleSubmit = () => {
     authors: [
       {
         name: autor.value,
-      },
+      },    
     ],
+    rating: {
+      average: 0
+    },
+    image: "https://openlibrary.org/images/icons/avatar_book-sm.png",
     price: precio.value,
     stock: stock.value,
   };
@@ -46,7 +50,8 @@ const handleDelete = (id) =>{
 </script>
 
 <template>
-  <div class="row row-cols-md-4 g-2" v-if="libros.length">
+  <p><strong>Listado de libros</strong></p>
+  <div class="row row-cols-md-8 g-2" v-if="libros.length">
       <div class="col" v-for="libro in libros" :key="libro.id">
         <!-- libro es el nombre de la 'prop' -->
         <Libro :libroProp="libro" @delete="handleDelete" />

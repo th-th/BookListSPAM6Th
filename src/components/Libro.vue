@@ -21,29 +21,27 @@ const mensajeStock = computed(()=> props.libroProp.stock ? `Hay ${props.libroPro
 </script>
 
 <template>
-    <div class="card h-100">
-  <img :src="props.libroProp.image ? props.libroProp.image : 'https://covers.openlibrary.org/b/id/2520429-M.jpg' " class="card-img-top" :alt="`Imagen del libro ${props.libroProp.title}`" >
-  <div class="card-body">
-    <h5 class="card-title">{{props.libroProp.title}}</h5>
-    <p class="card-text">{{props.libroProp.price}}</p>
-   
-    
-    </div>
+    <div class="card" style="width: 18rem;">
+        <img :src="props.libroProp.image" class="card-img-top" :alt="`Imagen del libro ${props.libroProp.title}`">
+        <div class="card-body">
+            <h5 class="card-title">{{props.libroProp.title}}</h5>
+            <p class="card-text">${{props.libroProp.price}}</p>
+        </div>
     <div class="card-footer bg-transparent border-top-0">
         <p class="small">{{mensajeStock}} </p> 
         <div class="d-flex justify-content-between">
-            <RouterLink class="btn btn-primary" :to="{name: 'DetalleLibro', params: {id: props.libroProp.id}}">Ver detalle</RouterLink>
-            <button class="btn btn-danger" @click="handleDelete">
+            <RouterLink class="btn btn-outline-secondary" :to="{name: 'DetalleLibro', params: {id: props.libroProp.id}}">Ver detalle</RouterLink>
+            <button class="btn btn-outline-danger" @click="handleDelete">
                 <Icon icon="lucide:trash-2" width="24" height="24" />
             </button>
     </div>
-  </div>
-</div>
+    </div>
+    </div>
 </template>
 
 <style scoped>
 img {
-    height: 450px;
+    height: 400px;
     object-fit: cover;
 }
 </style>
